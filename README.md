@@ -29,3 +29,5 @@ This project predicts next-day stock closing prices using historical data and te
 
 ## Key Learning
 Linear Regression performed best on this dataset, showing that stock prices often follow near-linear short-term trends. Random Forest and Decision Tree showed higher error due to overfitting on limited features.
+## Visualization
+![Prediction Chart](prediction_chart.png)
